@@ -1,3 +1,5 @@
+@AGENTS.md
+
 # Rules for Claude
 
 ## No claims from memory (Kiko, 17 Nov 2026)
